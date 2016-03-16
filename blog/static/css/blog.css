@@ -1,11 +1,10 @@
 .page-header {
-    background-color: #00cccc;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #000;
     font-size: 48pt;
     text-decoration: none;
 }
@@ -15,11 +14,12 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Monofett', cursive;
+    font-family: 'Raleway', cursive;
 }
 
+
 .title {
-	font-family: 'Racing Sans One';
+	font-family: 'Raleway';
 }
 
 .date {
