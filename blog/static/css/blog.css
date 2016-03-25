@@ -9,6 +9,10 @@
     text-decoration: none;
 }
 
+.page-header .top-menu a p{
+  font-size: 10pt;
+}
+
 .content {
     margin-left: 40px;
 }
@@ -37,7 +41,7 @@ h1, h2, h3, h4 {
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #000;
     float: right;
-    font-size: 26pt;
+    font-size: 10pt;
     margin-right: 20px;
 }
 
